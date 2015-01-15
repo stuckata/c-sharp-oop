@@ -1,0 +1,6 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\bin\Debug\02HumanStudentAndWorker.exe.config
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\bin\Debug\02HumanStudentAndWorker.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\bin\Debug\02HumanStudentAndWorker.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\obj\Debug\02HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\obj\Debug\02HumanStudentAndWorker.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\07_InheritanceAndAbstraction\02HumanStudentAndWorker\obj\Debug\02HumanStudentAndWorker.pdb

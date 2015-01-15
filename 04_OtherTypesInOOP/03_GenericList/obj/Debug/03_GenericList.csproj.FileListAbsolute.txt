@@ -1,0 +1,1 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\04_OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.exe.config

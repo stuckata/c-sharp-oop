@@ -1,0 +1,6 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\bin\Debug\06_Namespaces.exe.config
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\bin\Debug\06_Namespaces.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\bin\Debug\06_Namespaces.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\obj\Debug\06_Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\obj\Debug\06_Namespaces.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\02_StaticMembersAndNamespaces\06_Namespaces\obj\Debug\06_Namespaces.pdb

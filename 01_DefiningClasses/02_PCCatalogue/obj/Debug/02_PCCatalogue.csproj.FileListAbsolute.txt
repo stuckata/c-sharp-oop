@@ -1,0 +1,6 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\bin\Debug\02_PCCatalogue.exe.config
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\obj\Debug\02_PCCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\bin\Debug\02_PCCatalogue.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\bin\Debug\02_PCCatalogue.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\obj\Debug\02_PCCatalogue.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\01_DefiningClasses\02_PCCatalogue\obj\Debug\02_PCCatalogue.pdb

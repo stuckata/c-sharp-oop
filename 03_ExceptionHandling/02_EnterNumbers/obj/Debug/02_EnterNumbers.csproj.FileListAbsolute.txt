@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe.config
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\03_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\03_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.pdb

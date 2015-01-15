@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\08_EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\08_EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\08_EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\08_EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\OOP\08_EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb
